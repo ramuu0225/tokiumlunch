@@ -1,7 +1,7 @@
 {
   "title": "TOKIUM東銀座オフィスランチマップ",
   "description": "有志によるランチ・ディナー情報まとめアプリ\n「Geolonia PWAマップ」",
-  "form_url": "",
+  "form_url": "https://docs.google.com/forms/d/e/1FAIpQLSdD5KWesXQMGvAMb1zKRfBGdWS0XHanp_YEuMQZl2C2pUZZ7w/viewform",
   "logo_image_url": "https://geoloniamaps.github.io/pwamap/icon-pwamap.svg",
   "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
   "primary_color": "#d2691e",
